@@ -1,0 +1,18 @@
+{
+  "name": "uichat-website",
+  "version": "0.0.1",
+  "description": "uichat docs website",
+  "repository": "https://github.com/dangjingtao/uichat-website.git",
+  "author": "Tomz <dangjingtao@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.13"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {}
+}
