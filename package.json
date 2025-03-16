@@ -2,7 +2,6 @@
   "name": "uichat-website",
   "version": "0.0.1",
   "description": "uichat docs website",
-  "main": "index.js",
   "repository": "https://github.com/dangjingtao/uichat-website.git",
   "author": "Tomz <dangjingtao@163.com>",
   "license": "MIT",
