@@ -15,7 +15,7 @@ hero:
       link: /guide/index
     - theme: alt
       text: 尿解更多
-      link: /api/index
+      link: /api-reference/index
 
 
 
