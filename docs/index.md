@@ -7,7 +7,7 @@ hero:
   # text: "一个由AI提供的slogan"
   tagline: 一个由AI提供的slogan
   image:
-    src: public/images/组 1.png
+    src: /images/未标题-1.png
   alt: VitePress
   actions:
     - theme: brand
