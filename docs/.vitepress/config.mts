@@ -4,9 +4,9 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "UI Chat",
   description: "ui-chat docs website",
-  head: [["link", { rel: "icon", href: "/images/logoIcon-192.png" }]],
+  head: [["link", { rel: "icon", href: "public/images/logoIcon-192.png" }]],
   themeConfig: {
-    logo: "./images/logoIcon-192.png",
+    logo: "public/images/logoIcon-192.png",
 
     // https://vitepress.dev/reference/default-theme-config
     nav: [
